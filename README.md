@@ -12,7 +12,7 @@ Here is what you can do in the program:
 
 ## Sample Display
 ![]
-(https://github.com/cpmcclendon/GameCollectionBuilderProject/blob/main/GCBdisplay.gif)
+(https://raw.githubusercontent.com/cpmcclendon/GameCollectionBuilderProject/main/GCBdisplay.gif)
 
 ## Requirements to run
 You will/may need the following to run the program:
